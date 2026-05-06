@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/27412200/README.md)
 # DJM Creative
 
 Marketing agency website for DJM Creative — a Minneapolis-based marketing agency helping Twin Cities businesses grow through SEO, brand identity, web design, and content marketing.
