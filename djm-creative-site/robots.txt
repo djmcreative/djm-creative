@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://djm-creative.com/sitemap.xml
